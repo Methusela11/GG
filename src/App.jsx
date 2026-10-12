@@ -808,7 +808,7 @@ function App() {
           </div>
 
           <footer className="birthday-footer">
-            Made especially for Methusela · Every October 10th 💗
+            Made especially for Getrude Dzame · Every October 10th 💗
           </footer>
         </>
       ) : (
@@ -1222,7 +1222,7 @@ function App() {
               wisdom to appreciate how far you have travelled.
             </p>
 
-            <p className="final-signature">Happy Birthday, Methusela! 🎀</p>
+            <p className="final-signature">Happy Birthday, Getrude! 🎀</p>
 
             <button
               type="button"
