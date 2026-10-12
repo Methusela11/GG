@@ -696,7 +696,7 @@ function App() {
                 <>
                   Happy Birthday,
                   <br />
-                  Methusela!
+                  Getrude!
                 </>
               ) : (
                 <>
