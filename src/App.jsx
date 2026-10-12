@@ -1237,7 +1237,7 @@ function App() {
           </section>
 
           <footer className="birthday-footer">
-            Made especially for Methusela · Every October 10th 💗
+            Made especially for Getrude Dzame · Every October 10th 💗
           </footer>
         </section>
       )}
