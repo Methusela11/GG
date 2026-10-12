@@ -915,7 +915,7 @@ function App() {
             <h2>💌 A Birthday Letter to You</h2>
 
             <div className="letter-card">
-              <p>Dear Methusela,</p>
+              <p>Dear Getrude Dzame,</p>
 
               <p>
                 Today is a reminder that your life is a gift and your story is
