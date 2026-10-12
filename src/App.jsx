@@ -902,7 +902,7 @@ function App() {
             <span className="experience-kicker">
               A LITTLE WORLD OF YOUR OWN
             </span>
-            <h1>Happy Birthday, Methusela! 💗</h1>
+            <h1>Happy Birthday, Getrude! 💗</h1>
             <p>
               A collection of wishes, surprises, motivation, and fun — created
               especially for you.
